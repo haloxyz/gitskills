@@ -1,0 +1,2 @@
+test for bugs
+now it is fixed.
